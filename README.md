@@ -1,5 +1,7 @@
 ## Hello!
 
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Red&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light' width="150" alt="avatar">
+
 ### I'm Ava!
 
 I'm a high school student who's learning how to code.

@@ -8,4 +8,4 @@ I'm a high school student who's learning how to code.
 - 🔭 I’m currently working on [my website](https://amxchang.github.io/) and learning how to code.
 - 😀 I like to crochet, code, read, and draw in my free time.
 - 💬 Ask me about fountain pens.
-- ⚡ Fun fact: I'm surprisingly good at playing random Kahoot games.
+- ⚡ Fun fact: My first line of code was not "Hello World!"

@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](profilebanner.png)
 
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Red&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light' width="180" alt="avatar">
 
